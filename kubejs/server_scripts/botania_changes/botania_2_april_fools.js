@@ -2,6 +2,7 @@
 
 /*
 Yes this was an April fools joke, but it does technically work.
+Goes with this video: https://youtu.be/y9z6CJPHsnM
 The reason it works is because the botania code checks for block tags
 matching minecraft:leaves, so we just remove everything from that tag.
 Instead we only add the blocks that we want to be eaten.
